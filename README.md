@@ -48,4 +48,4 @@
 ---
 
 ## Screenshots
-![ScreenShot](https://github.com/490hz/ASA-HSR/blob/main/2.png)
+![ScreenShot](https://github.com/490hz/ASA-BA/blob/main/2.png)
