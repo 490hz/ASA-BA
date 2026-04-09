@@ -38,7 +38,7 @@
 - Global Speed  
 - Skip Dialogue  
 
-### Visual
+### Visuals
 - Camera FOV  
 
 ### Misc
